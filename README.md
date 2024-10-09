@@ -18,6 +18,15 @@ To ensure the PowerShell window does not briefly appear when the script runs, it
 
 ---
 
+## System Requirements
+
+- **Operating System**: Windows 7 or later (with PowerShell 5.1 or higher installed).
+- **PowerShell**: PowerShell 5.1 or higher.
+- **Task Scheduler**: Task Scheduler is required to automate the script at system startup.
+- **VBScript Engine**: Windows includes the VBScript engine, so no additional installation is necessary for running the `.vbs` wrapper script.
+
+---
+
 ## Usage
 
 1. **Download or clone the script** to your local machine.
