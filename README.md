@@ -4,7 +4,11 @@ This PowerShell script is designed to remind you to take a break after 30 minute
 
 To ensure the PowerShell window does not briefly appear when the script runs, it's recommended to use a VBScript wrapper that runs the PowerShell script in hidden mode. The script can be set to run automatically at system startup using the Task Scheduler, with the VBScript handling the execution invisibly in the background.
 
-<img src="https://github.com/user-attachments/assets/e0207339-3ec2-4b8b-995a-f0b06fa6359d" alt="Logo Breakreminder" width="25%">
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/e0207339-3ec2-4b8b-995a-f0b06fa6359d" alt="Logo Breakreminder" width="40%" style="margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/d7c6f8d8-79fc-42fe-a1bc-79d359b56470" alt="Messagebox Mach eine Pause" width="45%">
+</div>
+
 
 ---
 
