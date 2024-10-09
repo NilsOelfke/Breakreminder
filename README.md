@@ -29,7 +29,7 @@ To ensure the PowerShell window does not briefly appear when the script runs, it
 
 ## Usage
 
-1. **Download or clone the script** to your local machine.
+1. **Download or clone the powershell script** to your local machine.
 2. **Edit the path** in the `$timeFile` variable to set the correct location for storing the remaining time.
 3. **Run the script using the VBScript wrapper** (see the next section) to hide the PowerShell window.
 4. You can modify the `$pauseDuration` variable to set a different time interval if needed (time is in seconds).
